@@ -11,3 +11,6 @@ http://spark.rstudio.com/adefries/YAWYE
 source and zip here:
 
 https://db.tt/2GjDWeRF
+
+
+http://en.wikipedia.org/wiki/Powers_of_10
